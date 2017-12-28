@@ -8,7 +8,7 @@ Deep learning to learn while making
 | Topic      | Date/Time | Location |   Etc | 
 |------------|-----------|----------|-------|
 | Gluon Introduction |  12/22,17:00   | 분석실  |       |   
-| Convolution & Transfer Learning |  12/28,17:00   | 분석실  |   |     
+| Convolution & Transfer Learning |  12/28,18:00   | T-Lounge, Room G  |   |     
 
 ## Topic
 
@@ -20,12 +20,12 @@ Deep learning to learn while making
 
 ### Fully Connected  
 
-- [Classification model with MNIST](Fully_Connected) (@seujung)
+- [Classification model with MNIST](https://github.com/ski-net/dl_study_with_gluon/tree/master/Fully_Connected) (@seujung)
 
 ### Convolution
 
-- [Image classification with Convolution](Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
-- [Transfer Leraning](Convolution/cats_and_dogs_conv_transfer.ipynb) (@haven-jeon, cats and dogs classification)
+- [Image classification with Convolution](https://github.com/ski-net/dl_study_with_gluon/blob/master/Convolution/cats_and_dogs_conv.ipynb) (@haven-jeon, cats and dogs )
+- Transfer Leraning (@haven-jeon, cats and dogs classification)
 
 - Image classification with MNIST, CIFAR10 (@soohwanjo)
 
@@ -44,19 +44,15 @@ Deep learning to learn while making
 
 ### Recurrent
 - Sound Data Classification with Whale Sound Data (@hongdm7)
-- Stock Price Prediction with Amazon Stock Data (@hyeminchoe)
 
 ### Image
 
-### Neural Style Transfer
-- style transfer (@seujung)
 
 ### NLP
 
 - Sentiment Classification (@supark, 네이버 영화 평점)
 - seq2seq (@haven-jeon, Addition model)
 - seq2seq with Attention Mechanism (@haven-jeon, Addition model)
-- Text Generation(@EVA01)
 
 ### high-performance learning
 
